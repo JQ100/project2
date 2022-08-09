@@ -21,7 +21,7 @@ I provide visualizations for the data, detailed below. I also examine the data u
 
 
 #### Visual 1 Title
-![alt text](Screenshot 2022-07-29 at 3.02.14 PM.png)
+![(Screenshot 2022-07-29 at 3.02.14 PM.png)](https://github.com/JQ100/project2/blob/75c514e7255094201bd6403f18beae54f2b5531e/Screenshot%202022-07-29%20at%203.02.14%20PM.png)
 
 > According to the bar chart, we have the most sales in the technology sector and the least sales in the furniture sector.
 
