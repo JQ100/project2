@@ -26,7 +26,7 @@ I provide visualizations for the data, detailed below. I also examine the data u
 > According to the bar chart, we have the most sales in the technology sector and the least sales in the furniture sector.
 
 #### Visual 2 Title
-![(Screenshot 2022-07-30 at 2.56.15 PM.png)](https://github.com/JQ100/project2/blob/98198bd29822c9a1e65ddc299c997d56457637db/Screenshot%202022-07-30%20at%202.56.15%20PM.png)
+![(Screenshot 2022-07-29 at 3.02.14 PM.png)](https://github.com/JQ100/project2/blob/c4efc2e5d5144e6ccd4a5128334516591d5637e0/Screenshot%202022-07-29%20at%203.02.17%20PM.png)
 
 After our PCA step, we can see our training and test data have slight changes, and are still close together. However, the accuracy scores of the training/test data are concerning, as they're both near to none. I choose the post-PCA decision tree as my production model because the training and test scores are very close together, a sign we have reduced overfitting. To use this model for sales predictions, it is important to divide up the regions in the analysis. 
 
